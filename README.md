@@ -1,2 +1,2 @@
 # my File
-This is a short message from me.
+This is a short introduction and message from me.
